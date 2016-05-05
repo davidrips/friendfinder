@@ -1,0 +1,22 @@
+#resultsModal {
+
+	background: white;
+	height:500px;
+	width: 500px;
+	margin: auto;
+}
+
+#resultsModal button {
+	z-index: 1000;
+}
+
+#resultsModal img {
+	height:150px;
+	width: 150px;
+	margin:auto;
+}
+
+#submit {
+
+	margin-bottom: 50px;
+}
